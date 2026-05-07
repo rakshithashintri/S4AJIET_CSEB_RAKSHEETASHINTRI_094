@@ -1,0 +1,13 @@
+class Main {
+    public static void main(String[] args) {
+        
+        int n=20;
+        int m=3;
+        
+        int a=n/m;
+        int r=n%m;
+        System.out.println("Qouotient:"+a);
+        System.out.println("Remainder:"+r);
+        
+    }
+}
